@@ -141,7 +141,7 @@ Conclusion <br />
 Mastering these essential Git commands is crucial for effective version control and collaboration in software development. Git simplifies the process of tracking changes, managing branches, and collaborating with other developers, making it an invaluable tool for any coding project. As you become more proficient with Git, you'll discover additional commands and features that can streamline your development workflow and help you maintain a well-organized codebase.
 
 <p align="center">
-![git-data-transport](https://github.com/Soumaiald/Git/assets/94118305/a7709cde-79aa-4816-bb25-50cb1ce52205) 
+<img src="https://github.com/Soumaiald/Git/assets/94118305/a7709cde-79aa-4816-bb25-50cb1ce52205"> 
 </p>
 
 
