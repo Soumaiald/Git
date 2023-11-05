@@ -95,9 +95,11 @@ git branch branch1
 <img width="367" alt="Screenshot 2023-11-05 at 10 38 28 AM" src="https://github.com/Soumaiald/Git/assets/94118305/ee06a9a6-22ff-4c26-96be-1b6b43c15009"> <br />
 </p>
  To remove a branch, you can use: <br />
+ 
 ```
 git branch -d branch_name
 ```
+
 <br />
 10. git checkout <br />
 The git checkout command is used to switch between branches or to restore files to their state at a specific commit. It allows you to move between different project states quickly. <br />
