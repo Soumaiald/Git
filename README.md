@@ -21,7 +21,7 @@ Example:<br />
 git clone  <repository-url>
 ```
 <p align="center">
-![clone-image](https://github.com/Soumaiald/Git/assets/94118305/8104c890-0464-4f6a-98a6-5410370ef0bc) <br />
+<img src="https://github.com/Soumaiald/Git/assets/94118305/8104c890-0464-4f6a-98a6-5410370ef0bc"> <br />
 </p>
 <br />
 3. git add <br />
@@ -54,7 +54,7 @@ Example: <br />
 git commit -m "commit description"
 ```
 <p align="center">
-![gitadd-gitcommit](https://github.com/Soumaiald/Git/assets/94118305/e51832b7-2b19-459d-9b93-4e6f27d91783) <br />
+<img src="https://github.com/Soumaiald/Git/assets/94118305/e51832b7-2b19-459d-9b93-4e6f27d91783"><br />
 </p>
 <br />
 6. git log <br />
